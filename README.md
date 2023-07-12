@@ -46,7 +46,3 @@ MCA - Master in Computer Applications
 
 <a href="https://github.com/Atlantis-Z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atlantis-Z&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Atlantis-Z/FE0122A_progetto-settimana10" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Atlantis-Z&repo=FE0122A_progetto-settimana10&title_color=3382ed&text_color=ffffff&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div>
